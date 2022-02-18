@@ -1,0 +1,5 @@
+altair
+dash==1.18.1
+numpy
+vega_datasets
+gunicorn
